@@ -1,0 +1,54 @@
+{
+  "VexWireless": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/VexWireless.groovy"
+  },
+  "vexFlatSheet": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexFlatSheet.groovy"
+  },
+  "vexGear": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexGear.groovy"
+  },
+  "vexStandoff": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexStandoff.groovy"
+  },
+  "vexWheels": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexWheels.groovy"
+  },
+  "vexSpacer": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexSpacer.groovy"
+  },
+  "vex_Hex_Nut_Retainer": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vex_Hex_Nut_Retainer.groovy"
+  },
+  "vexShaft": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexShaft.groovy"
+  },
+  "VexBattery": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/VexBattery.groovy"
+  },
+  "VexBrain": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/VexBrain.groovy"
+  },
+  "vexMotor": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexMotor.groovy"
+  },
+  "vexCchannel": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexCchannel.groovy"
+  },
+  "vexLchannel": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/vexLchannel.groovy"
+  }
+}

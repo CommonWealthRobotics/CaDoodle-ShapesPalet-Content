@@ -1,0 +1,138 @@
+{
+
+"Cube":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"cube.groovy",
+	"order":"2"
+	},
+"Cylinder":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"cylinder.groovy",
+	"order":"3"
+	},
+"Shpere":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"sphere.groovy",
+	"order":"4"
+	},
+"Cube Hole":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"cubeHole.groovy",
+	"order":"0"
+	},
+"Cylinder Hole":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"cylinderHole.groovy",
+	"order":"1"
+	},
+"Text":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"text.groovy",
+	"order":"5"
+	},
+"Cone":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"cone.groovy",
+	"order":"6"
+	},
+"Roof":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"roof.groovy",
+	"order":"7"
+	},
+"halfCylinder":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"halfCylinder.groovy",
+	"order":"8"
+	},
+"Wedge":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"wedge.groovy",
+	"order":"9"
+	},
+"Pyramid":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"pyramid.groovy",
+	"order":"10"
+	},
+"Half Sphere":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"halfSphere.groovy",
+	"order":"11"
+	},
+"Hexagon":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"hexagon.groovy",
+	"order":"12"
+	},
+"Parapoloid":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"parapoloid.groovy",
+	"order":"13"
+	},
+"Toroid":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"toroid.groovy",
+	"order":"14"
+	},
+"Tube":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"tube.groovy",
+	"order":"15"
+	},
+"Heart":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"heart.groovy",
+	"order":"16"
+	},
+"Star":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"star.groovy",
+	"order":"17"
+	},
+"icosahedron":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"icosahedron.groovy",
+	"order":"18"
+	},
+"Adjustable Star":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"adjustableStar.groovy",
+	"order":"19"
+	},
+"Diamond":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"diamond.groovy",
+	"order":"20"
+	},
+"Scribble":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"scribble.svg",
+	"order":"21",
+	"copyFile":true
+	},
+"Ring":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"ring.svg",
+	"order":"22",
+	"sweep":true
+	},
+"Threads":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"threads.svg",
+	"order":"23",
+	"sweep":true,
+	"ZPer":"1.0",
+	"Degrees":"3600"
+	},
+"Spiral":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"spiral.svg",
+	"order":"24",
+	"sweep":true,
+	"ZPer":"-15.0",
+	"Spiral":"25",
+	"Degrees":"540"
+	}	
+	
+}

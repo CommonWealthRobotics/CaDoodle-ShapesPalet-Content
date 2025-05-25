@@ -1,0 +1,24 @@
+{
+
+"Open-Hardware Logo":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"OpenHardwareLogo.groovy",
+	"order":"0"
+	},
+	"Open-Source Logo":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"OpenSourceLogo.groovy",
+	"order":"1"
+	},
+	"Technocopia":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"simplified logo-color-flat.svg",
+	"order":"2"
+	},
+	"Linux Tux":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"LINUX-TUX.svg",
+	"order":"3"
+	}
+	
+}

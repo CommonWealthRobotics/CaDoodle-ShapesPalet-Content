@@ -1,0 +1,14 @@
+{
+
+"Square Chain Mail":{
+	"git":"https://github.com/madhephaestus/ChainMail.git",
+	"file":"ChainMail.doodle",
+	"order":"0",
+	"copyFile":true
+	},
+	"Bevel Gears":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"GearGenerator.groovy",
+	"order":"1"
+	}
+}

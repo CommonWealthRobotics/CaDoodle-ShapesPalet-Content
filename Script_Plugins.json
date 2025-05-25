@@ -1,0 +1,9 @@
+{
+
+"Script Plugin":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"pluginStub.groovy",
+	"order":"0",
+	"copyFile":true
+	}
+}
