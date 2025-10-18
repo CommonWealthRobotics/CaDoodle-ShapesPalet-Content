@@ -194,5 +194,9 @@
   "ElecFreak Shaft": {
     "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
     "file": "generated/ElecFreakShaft.groovy"
+  },
+  "ElecFreak Pin": {
+    "git": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+    "file": "generated/ElecFreakPin.groovy"
   }
 }
