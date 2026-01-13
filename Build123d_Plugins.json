@@ -1,0 +1,9 @@
+{
+
+"Gear Generator":{
+	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+	"file":"build123d/gggears.groovy",
+	"order":"0",
+	"plugin":"build123d"
+	}
+}
