@@ -10,7 +10,7 @@
 	"file":"cylinder.groovy",
 	"order":"3"
 	},
-"Shpere":{
+"Sphere":{
 	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
 	"file":"sphere.groovy",
 	"order":"4"
@@ -40,7 +40,7 @@
 	"file":"roof.groovy",
 	"order":"7"
 	},
-"halfCylinder":{
+"Half Cylinder":{
 	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
 	"file":"halfCylinder.groovy",
 	"order":"8"
@@ -90,7 +90,7 @@
 	"file":"star.SVG",
 	"order":"17"
 	},
-"icosahedron":{
+"Icosahedron":{
 	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
 	"file":"icosahedron.groovy",
 	"order":"18"
