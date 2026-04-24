@@ -87,7 +87,7 @@
 	},
 "Star":{
 	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-	"file":"star.SVG",
+	"file":"star.groovy",
 	"order":"17"
 	},
 "icosahedron":{
