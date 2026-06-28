@@ -105,9 +105,9 @@
 	"file":"diamond.groovy",
 	"order":"20"
 	},
-"Scribble":{
+"Scribble Inkscape":{
 	"git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-	"file":"scribble.svg",
+	"file":"scribble2.svg",
 	"order":"21",
 	"copyFile":true
 	},
