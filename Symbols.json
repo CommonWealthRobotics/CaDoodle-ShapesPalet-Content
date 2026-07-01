@@ -2,13 +2,13 @@
 
 "Open-Hardware Logo":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
-	"file":"OpenHardwareLogo.groovy",
+	"file":"OpenHardwareLogo.svg",
 	"order":"0"    ,
             "copyFile":true 
 	},
 	"Open-Source Logo":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
-	"file":"OpenSourceLogo.groovy",
+	"file":"OpenSourceLogo.svg",
 	"order":"1"    ,
             "copyFile":true 
 	},
