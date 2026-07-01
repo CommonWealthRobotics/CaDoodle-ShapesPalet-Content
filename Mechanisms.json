@@ -11,4 +11,10 @@
 	"file":"GearGenerator.groovy",
 	"order":"1"
 	}
+    ,
+        "Animatronic Head":{
+        "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+        "file":"animatronic.groovy",
+        "order":"2"
+        }
 }
