@@ -109,13 +109,15 @@
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"scribble2.svg",
 	"order":"21",
-	"copyFile":true
+	"copyFile":true    ,
+                "plugin":"inkscape"
 	},
 "Ring":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"ring.svg",
 	"order":"22",
-	"sweep":true
+	"sweep":true    ,
+                "plugin":"inkscape"
 	},
 "Threads":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
@@ -123,7 +125,8 @@
 	"order":"23",
 	"sweep":true,
 	"ZPer":"1.0",
-	"Degrees":"3600"
+	"Degrees":"3600"    ,
+                "plugin":"inkscape"
 	},
 "Spiral":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
@@ -132,7 +135,8 @@
 	"sweep":true,
 	"ZPer":"-15.0",
 	"Spiral":"25",
-	"Degrees":"540"
+	"Degrees":"540"    ,
+                "plugin":"inkscape"
 	},
 "Courtney Coin":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
