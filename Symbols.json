@@ -8,7 +8,7 @@
 	},
 	"Open-Source Logo":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
-	"file":"OpenSourceLogo.svg",
+	"file":"OpenSource.svg",
 	"order":"1"    ,
             "copyFile":true 
 	},
