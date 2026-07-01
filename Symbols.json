@@ -3,22 +3,32 @@
 "Open-Hardware Logo":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"OpenHardwareLogo.groovy",
-	"order":"0"
+	"order":"0"    ,
+            "copyFile":true 
 	},
 	"Open-Source Logo":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"OpenSourceLogo.groovy",
-	"order":"1"
+	"order":"1"    ,
+            "copyFile":true 
 	},
 	"Technocopia":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"simplified logo-color-flat.svg",
-	"order":"2"
+	"order":"2"    ,
+            "copyFile":true 
 	},
 	"Linux Tux":{
 	"git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
 	"file":"LINUX-TUX.svg",
-	"order":"3"
-	}
+	"order":"3"    ,
+            "copyFile":true 
+	},
+    "CaDoodle Logo":{
+    "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+    "file":"cadoodle.svg",
+    "order":"4"    ,
+            "copyFile":true 
+    }
 	
 }
