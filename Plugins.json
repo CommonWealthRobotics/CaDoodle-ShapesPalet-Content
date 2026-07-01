@@ -23,12 +23,71 @@
     "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
     "file":"pluginStub.groovy",
     "order":"3",
-    "copyFile":true
+    "copyFile":true    ,
+        "plugin":"eclipse"
     },    
 "OpenSCAD Script":{
     "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
     "file":"openscad/OpenScadScript.scad",
     "order":"4",
-    "copyFile":true
-    }
+    "copyFile":true    ,
+        "plugin":"openscad"
+    },
+    "FreeCAD Example":{
+        "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+        "file":"FreeCadExample.FCStd",
+        "order":"5",
+        "copyFile":true        ,
+            "plugin":"freecad"
+        }    ,
+    "Scribble Inkscape":{
+        "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+        "file":"scribble2.svg",
+        "order":"6",
+        "copyFile":true        ,
+            "plugin":"inkscape"
+        },        
+        "SpurGear":{
+            "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+            "file":"build123d/SpurGear.groovy",
+            "order":"7",
+            "plugin":"build123d"
+            },
+        "SpurRingGear":{
+            "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+            "file":"build123d/SpurRingGear.groovy",
+            "order":"8",
+            "plugin":"build123d"
+            },
+        "InvoluteRack":{
+               "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+               "file":"build123d/InvoluteRack.groovy",
+               "order":"9",
+               "plugin":"build123d"
+               },           
+        "HelicalRack":{
+              "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+              "file":"build123d/HelicalRack.groovy",
+              "order":"10",
+              "plugin":"build123d"
+               },
+        "HelicalGear":{
+             "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+             "file":"build123d/HelicalGear.groovy",
+             "order":"11",
+             "plugin":"build123d"
+             },  
+                                       
+        "CycloidGear":{
+            "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+            "file":"build123d/CycloidGear.groovy",
+            "order":"12",
+            "plugin":"build123d"
+            },                    
+        "BevelGear":{
+           "git":"https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+           "file":"build123d/BevelGear.groovy",
+           "order":"13",
+           "plugin":"build123d"
+           }
 }
