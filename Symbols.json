@@ -30,11 +30,15 @@
     "order":"4"    ,
             "copyFile":true 
     }        ,
-            "CaDoodle Logo Simple":{
-            "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
-            "file":"cadoodle-simple.svg",
-            "order":"5"    ,
-                    "copyFile":true 
-            }
-	
+    "CaDoodle Logo Simple":{
+    "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+    "file":"cadoodle-simple.svg",
+    "order":"5"    ,
+            "copyFile":true 
+    },
+  "Pointer":{
+  "git":"https://github.com/CommonWealthRobotics/CaDoodle-Example-Objects.git",
+  "file":"doodles/PointerHand/PointerHand.doodle",
+  "order":"6"
+  }
 }
